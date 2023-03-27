@@ -19,6 +19,6 @@ setup(
     ],
     install_requires=[
         'pytest==2.9.1',
-        'redis==2.10.5'
+        'redis==4.5.3'
     ]
 )
